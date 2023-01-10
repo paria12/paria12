@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+* I'm based in Toulouse
+* You can contact me at : [enzo12850@gmail.com](mailto:enzo12850@gmail.com)
+* I'm currently students of [Bachelor in computer science specialized in development](https://www.uni-tlse3.fr/but-specilite-informatique)
 <!--
 **paria12/paria12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
